@@ -1,0 +1,58 @@
+.red{
+    background-color: red;
+}
+.challenge{
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.tech{
+    display:flex;
+}
+.green{
+    display: flex;
+    background-color: green;
+}
+.web h2{
+    text-align: center;
+}
+.blue {
+    background-color: blue;
+}
+.yellow{
+    background-color: yellow;
+}
+
+.height{
+    height:500px;
+}
+.para{
+    
+    margin: 0px 20px 10px 20px;
+    height: 200px;
+    width : 100% ;
+}
+
+@media only screen and (max-width: 766px){
+    .para1{
+        display: flex;
+    }
+    .para{
+        width:40%;
+    }
+} 
+    
+.img{
+    height:100%;
+    width:100%;
+}
+
+.img1{
+    height: 25%;
+    width: 75%;
+}
+
+.img2{
+    height: 10%;
+    width: 50%;
+}
